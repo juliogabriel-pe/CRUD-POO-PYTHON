@@ -6,7 +6,7 @@
 
 <ul>
   <li>Python 3</li>
-  <li>MYSQL ( Indicado para visualização dos dados salvos )</li>
+  <li>MYSQL Workbench ( Indicado para visualização dos dados salvos )</li>
 </ul>
 
 <h2>Funcionalidades do CRUD</h2>
