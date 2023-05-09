@@ -1,6 +1,6 @@
 <h1>CRUD em Python</h1>
 
-<p>Esse repositório contém um exemplo simples de implementação de CRUD em Python utilizando a biblioteca SQLAlchemy.</p>
+<p>Esse repositório contém um exemplo simples de implementação de CRUD em Python utilizando a biblioteca mysql.connector.</p>
 
 <h2>Pré-requisitos</h2>
 
